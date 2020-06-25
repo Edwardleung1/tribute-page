@@ -1,6 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
 img {
     max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
+}
+#title {
+    background-color: grey;
+    padding: 20px;
+    margin: 20px;
+}
+h1 {
+    text-align: center;
+}
+#image {
+    border: 2px solid black;
+}
+p,
+h3 {
+    text-align: center;
+    padding: 20px;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 2.5em;
+} 
+
+#tribute-info {
+    margin: 0 auto;
+    height: auto;
+    max-width: 50%;
 }
